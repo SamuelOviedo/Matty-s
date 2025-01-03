@@ -1,2 +1,2 @@
 # Matty-s
-Desarrollo de aplicación móvil para Matty's
+Desarrollo de aplicación para Matty's
